@@ -35,7 +35,8 @@ Funcionalidade: Realizando compras no site da Sauce
 ---
 
 ## Como executar o projeto
+ 
+ 1. Baixar o repositório .zip e o descompactar em sua maquina.
+ 2. Abra as informaçãos utilizando o Eclipse(ou programa compativel).
+ 3. Executar o teste.
 
- 1º. Baixar o repositório .zip e o descompactar em sua maquina.
- 2º. Abra as informaçãos utilizando o Eclipse(ou programa compativel).
- 3º. Executar o teste.
