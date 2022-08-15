@@ -13,6 +13,7 @@ Testes para simular uma sessão de compras no site sucedemo.com
  - Selenium 
  - WebDriver 
  - Maven
+ - Cucumber
 
 ## Como executar o projeto
  
